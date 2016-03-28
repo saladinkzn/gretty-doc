@@ -1,6 +1,6 @@
 = Getting started
 Andrey Hihlovskiy
-2014-05-29
+2016-03-28
 :sectanchors:
 :jbake-type: page
 :jbake-status: published
@@ -41,7 +41,7 @@ buildscript {
   }
   
   dependencies {
-    classpath 'org.akhikhl.gretty:gretty:+'
+    classpath 'ru.shadam.gretty:gretty:+'
   }
 }
 
