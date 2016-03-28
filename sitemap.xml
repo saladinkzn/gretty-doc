@@ -1,190 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Code-coverage-support.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Composite-farms.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Configuring-default-farm.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Debugger-support.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Debugging-a-farm.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Duplicate-farm-names.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Farm-extension.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Farm-integration-tests.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Farm-server-specific-properties.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Farm-task-classes.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Farm-tasks.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Farm-web-app-list.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Farms-and-web-app-specific-properties.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Farms-extension.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Fast-reload.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Feature-overview.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Getting-started.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Gretty-configuration.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Gretty-task-classes.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Gretty-tasks.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/GrettyServiceTask.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/GrettyStartTask.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/HTTPS-support.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Hot-deployment.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Injection-of-version-variables.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Integration-tests-support.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/JEE-annotations-support.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Jetty-security-realms.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Logging.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Multiple-farms.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Multiple-web-apps-configureless-setup.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Multiple-web-apps-introduction.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Override-context-path-in-integration-test-tasks.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Product-generation.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Redirect-filter.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Runner-arguments.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Servlet-container-classpath.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Switching-between-servlet-containers.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/System-requirements.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Tomcat-security-realms.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Troubleshooting.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Web-app-extra-resource-bases.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Web-app-filtering.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Web-app-overlays.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Web-app-virtual-webinflibs.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
-        <loc>http://akhikhl.github.io/gretty-doc/Web-fragments-support.html</loc>
-        <lastmod>2014-05-29</lastmod>
-    </url>
-    <url>
         <loc>http://akhikhl.github.io/gretty-doc/about.html</loc>
         <lastmod>2014-05-29</lastmod>
     </url>
@@ -237,7 +53,55 @@
         <lastmod>2014-05-29</lastmod>
     </url>
     <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Code-coverage-support.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Composite-farms.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Configuring-default-farm.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
         <loc>http://akhikhl.github.io/gretty-doc/debug-task.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Debugger-support.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Debugging-a-farm.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Duplicate-farm-names.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Farm-extension.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Farm-integration-tests.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Farm-server-specific-properties.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Farm-task-classes.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Farm-tasks.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Farm-web-app-list.html</loc>
         <lastmod>2014-05-29</lastmod>
     </url>
     <url>
@@ -273,6 +137,14 @@
         <lastmod>2014-05-29</lastmod>
     </url>
     <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Farms-and-web-app-specific-properties.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Farms-extension.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
         <loc>http://akhikhl.github.io/gretty-doc/farmStart-task.html</loc>
         <lastmod>2014-05-29</lastmod>
     </url>
@@ -293,11 +165,67 @@
         <lastmod>2014-05-29</lastmod>
     </url>
     <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Fast-reload.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Feature-overview.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Getting-started.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Gretty-configuration.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Gretty-task-classes.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Gretty-tasks.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/GrettyServiceTask.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/GrettyStartTask.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Hot-deployment.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/HTTPS-support.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
         <loc>http://akhikhl.github.io/gretty-doc/index.html</loc>
         <lastmod>2014-05-29</lastmod>
     </url>
     <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Injection-of-version-variables.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Integration-tests-support.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/JEE-annotations-support.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
         <loc>http://akhikhl.github.io/gretty-doc/jetty-env.xml-support.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Jetty-security-realms.html</loc>
         <lastmod>2014-05-29</lastmod>
     </url>
     <url>
@@ -345,7 +273,43 @@
         <lastmod>2014-05-29</lastmod>
     </url>
     <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Logging.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Multiple-farms.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Multiple-web-apps-configureless-setup.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Multiple-web-apps-introduction.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Override-context-path-in-integration-test-tasks.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Product-generation.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Redirect-filter.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
         <loc>http://akhikhl.github.io/gretty-doc/run-task.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Runner-arguments.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Servlet-container-classpath.html</loc>
         <lastmod>2014-05-29</lastmod>
     </url>
     <url>
@@ -357,7 +321,19 @@
         <lastmod>2014-05-29</lastmod>
     </url>
     <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Switching-between-servlet-containers.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/System-requirements.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
         <loc>http://akhikhl.github.io/gretty-doc/tomcat-context.xml-support.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Tomcat-security-realms.html</loc>
         <lastmod>2014-05-29</lastmod>
     </url>
     <url>
@@ -402,6 +378,30 @@
     </url>
     <url>
         <loc>http://akhikhl.github.io/gretty-doc/tomcatStop-task.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Troubleshooting.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Web-app-extra-resource-bases.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Web-app-filtering.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Web-app-overlays.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Web-app-virtual-webinflibs.html</loc>
+        <lastmod>2014-05-29</lastmod>
+    </url>
+    <url>
+        <loc>http://akhikhl.github.io/gretty-doc/Web-fragments-support.html</loc>
         <lastmod>2014-05-29</lastmod>
     </url>
 </urlset>
